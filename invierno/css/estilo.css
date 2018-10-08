@@ -1,0 +1,118 @@
+body {
+  background : #C0D9D9 url(../imagenes/fondo.gif) repeat;
+  font : 8pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color : #666666;
+  margin : 20px 0px 20px 0px;
+  text-align: center;
+}
+a.enlacenav, a.enlacenav:visited, a.enlacenav:active, a.enlacenav:focus, a.enlacenav:link{
+  color: #494E6B;
+}
+a.enlacenav:hover{
+  color: #3F7DE3;
+}
+a{
+  text-decoration: none;
+}
+h1{
+  font-size: 12pt;
+}
+input {
+  font-size : 8pt;
+}
+#contenedor{
+  text-align: left;
+  width: 700px;
+  background-color : #ffffff;
+  margin: auto;
+}
+#cabecera{
+  height : 106px;
+  width: 700px;
+}
+#navegador{
+  background : #F5F4C3 url(../imagenes/fondonav.gif);
+  padding : 3px 10px 5px 10px;
+  border-top : 1px solid #cccccc;
+  border-bottom : 1px solid #cccccc;
+}
+#cuerpo{
+  width:480px;
+  margin-left: 8px;
+  padding: 12px 0px 10px 0px;
+  background-color : #ffffff;
+  float:left;
+}
+#lateral{
+  width: 200px;
+  background-color: #EBF2FE;
+  border-bottom : 1px solid #cccccc;
+  border-left : 1px solid #cccccc;
+  float:right;
+}
+#fbuscar form{
+  margin-bottom : 0px;
+  margin-top : 0px;
+}
+#campotexto{
+  float: left;
+}
+#campotexto input{
+  width:100px;
+}
+#botonbuscar {
+  padding-top : 3px;
+  padding-left: 106px;
+}
+#botonbuscar input{
+  border : 0px none;
+}
+#otras ul{
+  margin : 5px 10px 0px 0px;
+  padding: 0px 0px 0px 4px;
+  list-style: none;
+}
+#otras li{
+  padding-left: 14px;
+  background: transparent url(../imagenes/bullet.gif) 0 2px no-repeat;
+  margin-bottom: 10px;
+}
+#pie{
+  clear : both;
+  color : #cccccc;
+  text-align : right;
+  margin : 10px 10px 0px 10px;
+  padding-bottom:10px;
+}
+#contenedor{
+  text-align: left;
+  border: 2px solid #cccccc;
+  width: 700px;
+  margin: auto;
+  background-color : #ffffff;
+}
+#borde{
+  border: 2px solid #cccccc;
+  text-align: left;
+  width: 700px;
+  margin: auto;
+}
+#navabajo{
+  font-weight: bold;
+}
+.radio{
+  clear:both;
+}
+.titlat{
+  background-color:#68729E;
+  color:#ffffff;
+  font-size:8pt;
+  text-transform : uppercase;
+  padding: 7px 3px 7px 8px;
+  font-weight : normal;
+  letter-spacing : 2px;
+  margin: 0px 0px 8px 0px;
+}
+.cuerpolateral{
+  padding: 5px 4px 13px 10px;
+}
